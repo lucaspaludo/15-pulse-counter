@@ -1,1 +1,1 @@
-# 15-pulse-counter
+15 pulse counter with Atmega8
